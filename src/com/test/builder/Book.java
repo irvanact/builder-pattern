@@ -1,3 +1,5 @@
+package com.test.builder;
+
 import java.util.Date;
 
 public class Book {
